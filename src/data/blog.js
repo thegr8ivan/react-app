@@ -1,9 +1,8 @@
-import logo from "../assets/logo";
+// src/data/blog.js
 
 const blogData = {
-  name: "Underreacted",
-  image: logo,
-  about: "A blog about learning React",
+  name: "My Awesome Blog", // Updated name here
+  about: "A blog about React and modern JavaScript frameworks.",
   posts: [
     {
       id: 1,
@@ -29,3 +28,5 @@ const blogData = {
 };
 
 export default blogData;
+
+

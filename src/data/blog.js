@@ -1,7 +1,5 @@
-// src/data/blog.js
-
 const blogData = {
-  name: "My Awesome Blog", // Updated name here
+  name: "My Awesome Blog", 
   about: "A blog about React and modern JavaScript frameworks.",
   posts: [
     {
